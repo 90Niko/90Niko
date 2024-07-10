@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=90naiko&label=Profile%20views&color=0e75b6&style=flat" alt="90naiko" /> </p>
 
-- 🌱 I’m currently learning **JS Frond-End,React**
+- 🌱 I’m currently learning **JS Front-End,React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
